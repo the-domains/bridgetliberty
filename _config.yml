@@ -2,6 +2,7 @@ name: BridgetLiberty
 favicon: null
 layout_spectrum: 0.7080673328600824
 typography_spectrum: 0.2569786533713341
+title: ' '
 cta:
   domain: null
   bucket: null
